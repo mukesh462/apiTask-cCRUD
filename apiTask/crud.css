@@ -1,0 +1,44 @@
+form > input{ 
+    display: block;
+   
+}
+.text{
+    display: inline-block;
+     border: 3px solid black;
+     padding: 1rem;
+     color: white;
+     background-image: linear-gradient(to left, #101e21, #182625, #212d29, #2c342d, #383b32);
+ }
+ 
+input#submit{
+    color: blue;
+    position: relative;
+    top: 33px;
+    left: 0px;
+    border-radius: 12px;
+   
+} 
+h1{
+    color:#0c645c;
+}
+table{
+    position: relative;
+    top: 2rem;
+    left: -14rem;
+    padding: 15px;
+    width: 500px;
+}
+input#update{
+    
+        color: blue;
+        position: relative;
+        top: 33px;
+        left: 0px;
+        border-radius: 12px;
+       
+    
+}
+body{
+    background-image: linear-gradient(to right top, #9cd39c, #83d382, #69d265, #49d143, #06cf06);
+  
+}
